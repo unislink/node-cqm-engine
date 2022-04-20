@@ -6,16 +6,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "fhir-patient-api": "unislink/fhir-patient-api",
     "fibers": "^5.0.1",
     "json-is-equal": "",
     "minimalist": "^1.0.0",
     "minimist": "^1.2.0",
     "mongoose": "^4.4.2",
+    "node-qme": "unislink/node-qme",
     "node-resque": "~3.0.0",
     "optimist": "",
-    "promise": "^7.1.1",
-    "node-qme":"unislink/node-qme",
-    "fhir-patient-api":"unislink/fhir-patient-api"
+    "promise": "^7.1.1"
   },
   "author": "Rob Dingwell <rob@mitre.org>",
   "contributors": [
