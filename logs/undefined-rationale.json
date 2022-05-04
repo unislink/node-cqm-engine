@@ -1,0 +1,1366 @@
+{
+    "MeasurePeriod": {
+        "results": [
+            {
+                "id": "undefined",
+                "json": {
+                    "start_time": 1609459200,
+                    "end_time": 1638316800,
+                    "codes": {}
+                }
+            }
+        ]
+    },
+    "Agegrtr_thn_eql_18yearsat_7276C8E0_FED5_48B8_B6B5_FFFE06F0CD00_3B7C833D_4FA6_4BA0_92D3_1BFA40E904F4": {
+        "results": [
+            {}
+        ],
+        "specifics": [
+            [
+                "*"
+            ]
+        ]
+    },
+    "During_49E73ED5_CFB0_4952_9230_415474F00C3C_21DBB804_6963_4FC3_92C8_F878B11027AC": {
+        "results": [
+            {
+                "id": "622f46decd7f12f3c56f4cf0",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4cf0",
+                    "codes": {
+                        "CPT": [
+                            "99336"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1625011200,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4cf1",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4df3",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4df3",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1620432000,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4df4",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4df7",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4df7",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1622073600,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4df8",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4dfb",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4dfb",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1634688000,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4dfc",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4efe",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4efe",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1629158400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4eff",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f02",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f02",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1637625600,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f03",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f06",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f06",
+                    "codes": {
+                        "CPT": [
+                            "99328"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1615248000,
+                    "description": "DOMICIL/R-HOME VISIT NEW PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f07",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f0a",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f0a",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1626134400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f0b",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f0e",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f0e",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1623974400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f0f",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f15",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f15",
+                    "codes": {
+                        "CPT": [
+                            "99336"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1627430400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f16",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4fdb",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4fdb",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1626739200,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4fdc",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4fdf",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4fdf",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1637020800,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4fe0",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4fe3",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4fe3",
+                    "codes": {
+                        "CPT": [
+                            "99336"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1619481600,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4fe4",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            }
+        ],
+        "specifics": [
+            [
+                "622f46decd7f12f3c56f4cf0"
+            ],
+            [
+                "622f46decd7f12f3c56f4df3"
+            ],
+            [
+                "622f46decd7f12f3c56f4df7"
+            ],
+            [
+                "622f46decd7f12f3c56f4dfb"
+            ],
+            [
+                "622f46decd7f12f3c56f4efe"
+            ],
+            [
+                "622f46decd7f12f3c56f4f02"
+            ],
+            [
+                "622f46decd7f12f3c56f4f06"
+            ],
+            [
+                "622f46decd7f12f3c56f4f0a"
+            ],
+            [
+                "622f46decd7f12f3c56f4f0e"
+            ],
+            [
+                "622f46decd7f12f3c56f4f15"
+            ],
+            [
+                "622f46decd7f12f3c56f4fdb"
+            ],
+            [
+                "622f46decd7f12f3c56f4fdf"
+            ],
+            [
+                "622f46decd7f12f3c56f4fe3"
+            ]
+        ]
+    },
+    "precondition_3": true,
+    "precondition_IPP": true,
+    "IPP": true,
+    "DENOM": true,
+    "DENEX": false,
+    "OccurrenceA_MedicationsEncounterCodeSet_EncounterPerformed_40280381_3e93_d1af_013e_a36090dc2cf5": {
+        "results": [
+            {
+                "id": "622f46decd7f12f3c56f4ce8",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4ce8",
+                    "codes": {
+                        "CPT": [
+                            "99308"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1643673600,
+                    "description": "NURSING FAC CARE SUBSEQ",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4ce9",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4cec",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4cec",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1642464000,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4ced",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4cf0",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4cf0",
+                    "codes": {
+                        "CPT": [
+                            "99336"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1625011200,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4cf1",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4df3",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4df3",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1620432000,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4df4",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4df7",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4df7",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1622073600,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4df8",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4dfb",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4dfb",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1634688000,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4dfc",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4efe",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4efe",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1629158400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4eff",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f02",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f02",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1637625600,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f03",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f06",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f06",
+                    "codes": {
+                        "CPT": [
+                            "99328"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1615248000,
+                    "description": "DOMICIL/R-HOME VISIT NEW PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f07",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f0a",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f0a",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1626134400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f0b",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f0e",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f0e",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1623974400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f0f",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4f15",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4f15",
+                    "codes": {
+                        "CPT": [
+                            "99336"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1627430400,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4f16",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4fdb",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4fdb",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1626739200,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4fdc",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4fdf",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4fdf",
+                    "codes": {
+                        "CPT": [
+                            "99335"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1637020800,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4fe0",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            },
+            {
+                "id": "622f46decd7f12f3c56f4fe3",
+                "json": {
+                    "_id": "622f46decd7f12f3c56f4fe3",
+                    "codes": {
+                        "CPT": [
+                            "99336"
+                        ]
+                    },
+                    "mood_code": "EVN",
+                    "_type": "Encounter",
+                    "time": 1619481600,
+                    "description": "DOMICIL/R-HOME VISIT EST PAT",
+                    "qualifiers": [],
+                    "admitType": null,
+                    "dischargeTime": null,
+                    "dischargeDisposition": null,
+                    "admitTime": null,
+                    "oid": "2.16.840.1.113883.3.560.1.79",
+                    "status_code": {
+                        "HL7 ActStatus": [
+                            "performed"
+                        ]
+                    },
+                    "cda_identifier": {
+                        "_id": "57a3629058989a313b000285",
+                        "root": "1.3.6.1.4.1.115",
+                        "extension": "57876a02636239049cb2c806"
+                    },
+                    "diagnosis": {
+                        "_id": "622f46decd7f12f3c56f4fe4",
+                        "codes": {
+                            "ICD-10-CM": [
+                                "F03.90"
+                            ]
+                        },
+                        "mood_code": "EVN",
+                        "_type": "EncounterDiagnosis",
+                        "code": "F03.90",
+                        "code_system": "ICD-10-CM",
+                        "codeSystemName": "ICD-10-CM"
+                    }
+                }
+            }
+        ],
+        "specifics": [
+            [
+                "622f46decd7f12f3c56f4ce8"
+            ],
+            [
+                "622f46decd7f12f3c56f4cec"
+            ],
+            [
+                "622f46decd7f12f3c56f4cf0"
+            ],
+            [
+                "622f46decd7f12f3c56f4df3"
+            ],
+            [
+                "622f46decd7f12f3c56f4df7"
+            ],
+            [
+                "622f46decd7f12f3c56f4dfb"
+            ],
+            [
+                "622f46decd7f12f3c56f4efe"
+            ],
+            [
+                "622f46decd7f12f3c56f4f02"
+            ],
+            [
+                "622f46decd7f12f3c56f4f06"
+            ],
+            [
+                "622f46decd7f12f3c56f4f0a"
+            ],
+            [
+                "622f46decd7f12f3c56f4f0e"
+            ],
+            [
+                "622f46decd7f12f3c56f4f15"
+            ],
+            [
+                "622f46decd7f12f3c56f4fdb"
+            ],
+            [
+                "622f46decd7f12f3c56f4fdf"
+            ],
+            [
+                "622f46decd7f12f3c56f4fe3"
+            ]
+        ]
+    },
+    "During_B197C075_B53E_4181_A982_561AA3A51520_1E256CEB_0554_4BEB_AF89_380E393FA1E1": false,
+    "precondition_5": false,
+    "precondition_NUMER": false,
+    "NUMER": false,
+    "During_9C5A49EF_F35E_43C9_BEC8_1043CB937C03_F1DCDBE6_5253_44C1_8D55_4528AF0A172C": false,
+    "precondition_7": false,
+    "precondition_DENEXCEP": false,
+    "DENEXCEP": false,
+    "VARIABLES": false
+}
